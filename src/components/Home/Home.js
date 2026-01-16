@@ -44,10 +44,7 @@ function Home() {
       <Container>
         <Row style={{ paddingTop: "50px", paddingBottom: "80px" }}>
           <Col md={12} className="home-about-social">
-            <h1>Find Me On</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
+            <h1>Retrouvez-moi sur</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a href="https://github.com/AKEFIS" target="_blank" rel="noreferrer" className="icon-colour  home-social-icons">
@@ -75,6 +72,10 @@ function Home() {
                 </a>
               </li>
             </ul>
+            <p>
+              N'hésitez pas à m'ajouter à votre <b className="purple">réseau</b> <br />
+              ou à me contacter par <b className="purple">mail</b> !
+            </p>
           </Col>
         </Row>
       </Container>
