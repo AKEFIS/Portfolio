@@ -4,7 +4,7 @@
 
 ## Construit avec
 
-Mon portfolio personnel <a href="https://maximecurtil.github.io/portfolio" target="_blank">ICI</a> qui présente mes projets, mon CV ainsi que mes compétences techniques.
+Mon portfolio personnel <a href="https://akefis.github.io/Portfolio" target="_blank">ICI</a> qui présente mes projets, mon CV ainsi que mes compétences techniques.
 
 Ce projet a été construit en utilisant ces technologies :
 

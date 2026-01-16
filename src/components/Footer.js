@@ -18,7 +18,7 @@ function Footer() {
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
-              <a href="https://github.com/akefis" style={{ color: "white" }} target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/AKEFIS" style={{ color: "white" }} target="_blank" rel="noopener noreferrer">
                 <AiFillGithub />
               </a>
             </li>
