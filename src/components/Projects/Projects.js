@@ -26,7 +26,7 @@ function Projects() {
               description="Cofondateur de l'agence Ancreo, je pilote la stratégie technique et la gestion de projets pour des clients réels. De l'analyse des besoins au déploiement, j'assure la livraison de solutions web complètes et sur-mesure."
               ghLink="https://github.com/AKEFIS/ancreo"
               demoLink="https://agence-ancreo.lpmiaw.univ-lr.fr"
-              techs={["PHP", "HTML", "CSS", "JS", "Git", "Tailwind"]}
+              techs={["PHP", "HTML", "CSS", "JavaScript", "Git", "Tailwind"]}
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               title="Violet's Bookshop"
               description="Écosystème E-commerce complet pour une librairie. Développement d'un thème WordPress 100% sur-mesure et d'une extension de gestion d'événements, couplés à une boutique WooCommerce optimisée pour une identité visuelle unique."
               demoLink="https://violetsbookshop.fr"
-              techs={["WordPress", "WooCommerce", "PHP", "Figma", "MySQL", "HTML", "CSS", "JS"]}
+              techs={["WordPress", "WooCommerce", "PHP", "Figma", "MySQL", "HTML", "CSS", "JavaScript"]}
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="Le site sur lequel vous naviguez. Un portfolio personnel développé avec React pour présenter mon profil, mes compétences et mes projets. Optimisé pour la performance et l'expérience utilisateur."
-              techs={["React", "Javascript", "CSS", "HTML"]}
+              techs={["React", "JavaScript", "CSS", "HTML"]}
             />
           </Col>
 
