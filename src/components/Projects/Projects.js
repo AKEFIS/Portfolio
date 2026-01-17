@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import GestionStock from "../../Assets/Projects/GestionStock.png";
 import ancreo from "../../Assets/Projects/ancreo.png";
 import agcre from "../../Assets/Projects/AGCRE.png";
 import Portfolio from "../../Assets/Projects/Portfolio.png";
@@ -58,6 +59,17 @@ function Projects() {
               title="Portfolio"
               description="Le site sur lequel vous naviguez. Un portfolio personnel développé avec React pour présenter mon profil, mes compétences et mes projets. Optimisé pour la performance et l'expérience utilisateur."
               techs={["React", "JavaScript", "CSS", "HTML"]}
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={GestionStock}
+              isBlog={false}
+              title="Gestion de Stock Hardware"
+              description="Une application complète et modulaire pour gérer un stock de matériel informatique (RAM, GPU, Processeurs, etc.), développée avec une architecture moderne en Monorepo."
+              techs={["Next.js", "Express.js", "Socket.io", "TypeScript", "PostgreSQL", "TurboRepo", "Redis", "Docker", "Tailwind"]}
+              ghLink="https://github.com/AKEFIS/gestion-stock"
             />
           </Col>
 
