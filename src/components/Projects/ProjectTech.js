@@ -17,6 +17,7 @@ const techIcons = ((r) => {
 const nameToIconKey = {
   // Alias pour correspondre aux noms de fichiers
   JS: "Javascript",
+  JavaScript: "Javascript",
   Go: "go",
   "IntelliJ IDEA": "intellij-idea",
   "C++": "C++",
