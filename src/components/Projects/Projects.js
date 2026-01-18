@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import GestionStock from "../../Assets/Projects/GestionStock.png";
-import ancreo from "../../Assets/Projects/ancreo.png";
-import agcre from "../../Assets/Projects/AGCRE.png";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
-import VioletsBookshop from "../../Assets/Projects/Violet's Bookshop.jpg";
-import React2Shell from "../../Assets/Projects/react2shell.png";
+import GestionStock from "../../Assets/Projects/GestionStock.webp";
+import ancreo from "../../Assets/Projects/ancreo.webp";
+import agcre from "../../Assets/Projects/AGCRE.webp";
+import Portfolio from "../../Assets/Projects/Portfolio.webp";
+import VioletsBookshop from "../../Assets/Projects/Violet's Bookshop.webp";
+import React2Shell from "../../Assets/Projects/react2shell.webp";
 
 function Projects() {
   return (
@@ -59,6 +59,7 @@ function Projects() {
               title="Portfolio"
               description="Le site sur lequel vous naviguez. Un portfolio personnel développé avec React pour présenter mon profil, mes compétences et mes projets. Optimisé pour la performance et l'expérience utilisateur."
               techs={["React", "JavaScript", "CSS", "HTML"]}
+              ghLink="https://github.com/AKEFIS/Portfolio"
             />
           </Col>
 
@@ -68,7 +69,17 @@ function Projects() {
               isBlog={false}
               title="Gestion de Stock Hardware"
               description="Une application complète et modulaire pour gérer un stock de matériel informatique (RAM, GPU, Processeurs, etc.), développée avec une architecture moderne en Monorepo."
-              techs={["Next.js", "Express.js", "Socket.io", "TypeScript", "PostgreSQL", "TurboRepo", "Redis", "Docker", "Tailwind"]}
+              techs={[
+                "Next.js",
+                "Express.js",
+                "Socket.io",
+                "TypeScript",
+                "PostgreSQL",
+                "TurboRepo",
+                "Redis",
+                "Docker",
+                "Tailwind",
+              ]}
               ghLink="https://github.com/AKEFIS/gestion-stock"
             />
           </Col>
