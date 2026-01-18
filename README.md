@@ -1,17 +1,20 @@
+# Portfolio Personnel - Maxime CURTIL
+
 <div align="center">
   <img alt="Demo" src="./src/Assets/Projects/Portfolio.webp" />
 </div>
 
-## Construit avec
+Bienvenue sur le dépôt de mon portfolio. Cet espace me permet de présenter mes projets, mon parcours ainsi que mes compétences techniques de manière interactive.
 
-Mon portfolio personnel <a href="https://akefis.github.io/Portfolio" target="_blank">ICI</a> qui présente mes projets, mon CV ainsi que mes compétences techniques.
+🚀 **Démo en ligne : [akefis.github.io/Portfolio](https://akefis.github.io/Portfolio)**
 
-Ce projet a été construit en utilisant ces technologies :
+## 🛠️ Stack Technique
 
-- React.js
-- Node.js
-- React-Bootstrap
-- CSS
+Ce projet a été construit avec les technologies suivantes :
+
+- **Frontend :** React.js, React-Bootstrap
+- **Styling :** CSS
+- **Outils :** Node.js, Git
 
 ## Fonctionnalités
 
