@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c12f78de.css",
-    "main.js": "/Portfolio/static/js/main.69b4ec9a.js",
+    "main.js": "/Portfolio/static/js/main.f757ab28.js",
     "static/js/453.3f1fb51b.chunk.js": "/Portfolio/static/js/453.3f1fb51b.chunk.js",
-    "static/media/react2shell.png": "/Portfolio/static/media/react2shell.c8b50f187cb48f8eb91b.png",
-    "static/media/AGCRE.png": "/Portfolio/static/media/AGCRE.87d396ce4edb5201aaba.png",
-    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.b2d67b0d95fd4be58d12.png",
-    "static/media/Violet's Bookshop.jpg": "/Portfolio/static/media/Violet's Bookshop.414f6361e328ba7d48d4.jpg",
     "static/media/CV CURTIL Maxime.pdf": "/Portfolio/static/media/CV CURTIL Maxime.528862fa878c8e95247d.pdf",
     "static/media/linux-original.svg": "/Portfolio/static/media/linux-original.0cb7bf4e5cb9ed5e2333.svg",
-    "static/media/GestionStock.png": "/Portfolio/static/media/GestionStock.feeae95a67cf1b9b4923.png",
+    "static/media/Violet's Bookshop.webp": "/Portfolio/static/media/Violet's Bookshop.85414fc015a0bda5e873.webp",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/ancreo.png": "/Portfolio/static/media/ancreo.bc007f7159196c12097b.png",
+    "static/media/AGCRE.webp": "/Portfolio/static/media/AGCRE.a556e45e7c55b514cd3c.webp",
+    "static/media/ancreo.webp": "/Portfolio/static/media/ancreo.be94ef25b14e1ae48abb.webp",
+    "static/media/react2shell.webp": "/Portfolio/static/media/react2shell.71e54ce4dedb131b5dee.webp",
+    "static/media/GestionStock.webp": "/Portfolio/static/media/GestionStock.586bbc0f88f14512b986.webp",
+    "static/media/Portfolio.webp": "/Portfolio/static/media/Portfolio.800fa1a6eee8d8d7bca2.webp",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/postgresql-original-wordmark.svg": "/Portfolio/static/media/postgresql-original-wordmark.7f69300e20bea0f64899.svg",
     "static/media/SQL.svg": "/Portfolio/static/media/SQL.52fc098126b8b29ddd95.svg",
@@ -44,11 +44,11 @@
     "static/media/Next.svg": "/Portfolio/static/media/Next.67a2f477ba15b7e4af2c.svg",
     "static/media/windows11-original.svg": "/Portfolio/static/media/windows11-original.5cc84ba7ba7b6b804fd1.svg",
     "main.c12f78de.css.map": "/Portfolio/static/css/main.c12f78de.css.map",
-    "main.69b4ec9a.js.map": "/Portfolio/static/js/main.69b4ec9a.js.map",
+    "main.f757ab28.js.map": "/Portfolio/static/js/main.f757ab28.js.map",
     "453.3f1fb51b.chunk.js.map": "/Portfolio/static/js/453.3f1fb51b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c12f78de.css",
-    "static/js/main.69b4ec9a.js"
+    "static/js/main.f757ab28.js"
   ]
 }
