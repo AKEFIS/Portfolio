@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Demo" src="./src/Assets/Projects/Portfolio.png" />
+  <img alt="Demo" src="./src/Assets/Projects/Portfolio.webp" />
 </div>
 
 ## Construit avec
