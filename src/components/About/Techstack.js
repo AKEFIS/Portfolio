@@ -24,21 +24,31 @@ const techMap = {
   css: "css3-original",
   symfony: "symfony-original-wordmark",
   wordpress: "wordpress-original",
+  mysql: "mysql-original-wordmark",
+  git: "Git",
+  figma: "figma-original",
+  woocommerce: "woocommerce-original-wordmark",
+  chartjs: "chartjs-original",
 };
 
 const userTechs = [
   { key: "symfony", name: "Symfony" },
-  { key: "ts", name: "TypeScript" },
-  { key: "react", name: "React" },
-  { key: "docker", name: "Docker" },
-  { key: "postgres", name: "PostgreSQL" },
-  { key: "nodejs", name: "Node.js" },
-  { key: "tailwind", name: "Tailwind" },
   { key: "php", name: "PHP" },
+  { key: "nodejs", name: "Node.js" },
+  { key: "react", name: "React" },
+  { key: "ts", name: "TypeScript" },
+  { key: "js", name: "JavaScript" },
   { key: "html", name: "HTML" },
   { key: "css", name: "CSS" },
-  { key: "js", name: "JavaScript" },
+  { key: "tailwind", name: "Tailwind" },
+  { key: "postgres", name: "PostgreSQL" },
+  { key: "mysql", name: "MySQL" },
+  { key: "docker", name: "Docker" },
+  { key: "git", name: "Git" },
   { key: "wordpress", name: "WordPress" },
+  { key: "woocommerce", name: "WooCommerce" },
+  { key: "figma", name: "Figma" },
+  { key: "chartjs", name: "Chart.js" },
 ];
 
 function Techstack() {

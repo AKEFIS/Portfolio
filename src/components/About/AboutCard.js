@@ -10,7 +10,7 @@ function AboutCard() {
             Bonjour, je suis <b className="purple">Maxime CURTIL</b>, développeur Full Stack basé à La Rochelle.
             <br />
             <br />
-            Actuellement en <b className="purple">Licence Professionnelle "Métiers de l'Informatique : Applications Web"</b>, je
+            Diplômé d'une <b className="purple">Licence Professionnelle "Métiers de l'Informatique : Applications Web"</b> (mention Bien), je
             suis passionné par la conception d'applications performantes et intuitives.
             <br />
             <br />
@@ -28,14 +28,14 @@ function AboutCard() {
             <br />
             J'aime construire des solutions logiques et élégantes, que ce soit pour optimiser un moteur ou un algorithme.
             <br />
-            Cette approche, je la mets aujourd'hui en pratique au sein de l'agence <b className="purple">Ancreo</b> et dans mes
-            projets personnels.
+            Cette approche, je l'ai mise en pratique au sein de l'agence <b className="purple">Ancreo</b>, lors de mon stage à la{" "}
+            <b className="purple">DDTM de la Charente-Maritime</b>, et dans mes projets personnels.
             <br />
             <br />
-            🎯 <b className="purple">Objectif :</b> Je suis à la recherche d'un stage de <b className="purple">3 à 4 mois</b>{" "}
-            (dès fin mars 2026) pour relever de nouveaux défis techniques. <br />
+            🎯 <b className="purple">Objectif :</b> Je suis à la recherche d'un poste de{" "}
+            <b className="purple">Développeur Web Fullstack, Frontend ou Backend</b>, disponible immédiatement. <br />
             <br />
-            📍 <b className="purple">Mobilité :</b> La Rochelle, Sophia-Antipolis, Rennes et Nice.
+            📍 <b className="purple">Mobilité :</b> Sophia-Antipolis et alentours (Nice, Antibes, Cannes...).
             <br />
             <br />
           </p>

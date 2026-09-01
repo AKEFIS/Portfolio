@@ -5,7 +5,7 @@ function Type() {
   return (
     <Typewriter
       options={{
-        strings: ["Développeur Full Stack", "Cofondateur de l'agence Ancreo", "À la recherche d'un stage"],
+        strings: ["Développeur Full Stack", "Cofondateur de l'agence Ancreo", "À la recherche d'un poste de développeur"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,

@@ -17,8 +17,9 @@ function Home2() {
               exigence de précision et de performance.
               <br />
               <br />
-              Actuellement en <b className="purple">Licence Professionnelle "Métiers de l'Informatique"</b> (Parcours Full
-              Stack) à l'université de La Rochelle, je ne me contente pas d'apprendre : je construis.
+              Diplômé d'une <b className="purple">Licence Professionnelle "Métiers de l'Informatique"</b> (Parcours Full
+              Stack) à l'université de La Rochelle, et fort d'un stage chez la <b className="purple">DDTM de la Charente-Maritime</b>,
+              je ne me contente pas d'apprendre : je construis.
               <br />
               <br />
               Mon objectif est de concevoir des produits web innovants, en mettant un point d'honneur à la qualité
