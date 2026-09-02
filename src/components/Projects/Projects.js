@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import GestionStock from "../../Assets/Projects/GestionStock.webp";
 import ancreo from "../../Assets/Projects/ancreo.webp";
-import agcre from "../../Assets/Projects/AGCRE.webp";
+import agcre from "../../Assets/Projects/niv-eau17.fr_.png";
 import Portfolio from "../../Assets/Projects/Portfolio.webp";
 import VioletsBookshop from "../../Assets/Projects/Violet's Bookshop.webp";
 import React2Shell from "../../Assets/Projects/react2shell.webp";
@@ -21,6 +21,16 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={agcre}
+              isBlog={false}
+              title="AGCRE"
+              description="Application métier développée pour la DDTM 17 afin de piloter les ressources en eau. Elle centralise des données complexes pour offrir des tableaux de bord décisionnels et automatiser la génération de rapports administratifs."
+              techs={["Symfony 7", "Docker", "React", "TypeScript", "PostgreSQL", "Chart.js", "Git"]}
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={ancreo}
               isBlog={false}
               title="Ancreo"
@@ -28,16 +38,6 @@ function Projects() {
               ghLink="https://github.com/AKEFIS/ancreo"
               demoLink="https://agence-ancreo.lpmiaw.univ-lr.fr"
               techs={["PHP", "HTML", "CSS", "JavaScript", "Git", "Tailwind"]}
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={agcre}
-              isBlog={false}
-              title="AGCRE"
-              description="Application métier développée pour la DDTM 17 afin de piloter les ressources en eau. Elle centralise des données complexes pour offrir des tableaux de bord décisionnels et automatiser la génération de rapports administratifs."
-              techs={["Symfony 7", "Docker", "React", "TypeScript", "PostgreSQL", "Chart.js", "Git"]}
             />
           </Col>
 

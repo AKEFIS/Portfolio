@@ -7,7 +7,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Bonjour, je suis <b className="purple">Maxime CURTIL</b>, développeur Full Stack basé à La Rochelle.
+            Bonjour, je suis <b className="purple">Maxime CURTIL</b>, développeur Full Stack basé à Valbonne.
             <br />
             <br />
             Diplômé d'une <b className="purple">Licence Professionnelle "Métiers de l'Informatique : Applications Web"</b> (mention Bien), je

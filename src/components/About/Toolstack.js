@@ -17,6 +17,9 @@ const toolMap = {
   vscode: "vscode",
   windows: "windows11-original",
   linux: "linux-original",
+  docker: "Docker",
+  claude: "Claude",
+  ia: "IA",
 };
 
 const userTools = [
@@ -25,6 +28,9 @@ const userTools = [
   { key: "git", name: "Git" },
   { key: "vscode", name: "VS Code" },
   { key: "figma", name: "Figma" },
+  { key: "docker", name: "Docker" },
+  { key: "claude", name: "Claude" },
+  { key: "ia", name: "IA" },
 ];
 
 function Toolstack() {
