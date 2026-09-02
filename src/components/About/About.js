@@ -6,8 +6,11 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import SoftSkills from "./SoftSkills";
+import usePageTitle from "../../hooks/usePageTitle";
 
 function About() {
+  usePageTitle("À propos | Maxime CURTIL");
+
   return (
     <>
       {" "}

@@ -154,6 +154,13 @@ button:focus {
   .navbar-nav .nav-item a::after {
     display: none !important;
   }
+  /* Le panneau fixe ne grandit qu'à la hauteur de son contenu : sans ce
+     minimum, le fond opaque du menu ouvert n'atteint pas le bas de l'écran
+     et laisse apparaître le contenu de la page (ex. le titre du Hero) en
+     dessous des liens de navigation. */
+  .navbar.menu-open {
+    min-height: 100vh !important;
+  }
 }
 .navbar-brand {
   color: rgb(250, 250, 250) !important;

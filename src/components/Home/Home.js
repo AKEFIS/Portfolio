@@ -6,8 +6,11 @@ import Home2 from "./Home2";
 import Type from "./Type";
 import { AiFillGithub, AiFillMail } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import usePageTitle from "../../hooks/usePageTitle";
 
 function Home() {
+  usePageTitle("Maxime CURTIL | Développeur Web Fullstack");
+
   return (
     <section>
       <Container fluid className="home-section" id="home">

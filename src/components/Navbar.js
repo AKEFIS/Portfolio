@@ -22,7 +22,12 @@ function NavBar() {
   window.addEventListener("scroll", scrollHandler);
 
   return (
-    <Navbar expanded={expand} fixed="top" expand="md" className={navColour ? "sticky" : "navbar"}>
+    <Navbar
+      expanded={expand}
+      fixed="top"
+      expand="md"
+      className={`${navColour ? "sticky" : "navbar"}${expand ? " menu-open" : ""}`}
+    >
       <Container>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

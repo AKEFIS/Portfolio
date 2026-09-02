@@ -8,8 +8,11 @@ import agcre from "../../Assets/Projects/niv-eau17.fr_.png";
 import Portfolio from "../../Assets/Projects/Portfolio.webp";
 import VioletsBookshop from "../../Assets/Projects/Violet's Bookshop.webp";
 import React2Shell from "../../Assets/Projects/react2shell.webp";
+import usePageTitle from "../../hooks/usePageTitle";
 
 function Projects() {
+  usePageTitle("Projets | Maxime CURTIL");
+
   return (
     <Container fluid className="project-section">
       <Particle />
