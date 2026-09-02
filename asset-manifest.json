@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c12f78de.css",
-    "main.js": "/Portfolio/static/js/main.820e8c2f.js",
+    "main.css": "/Portfolio/static/css/main.0c03037e.css",
+    "main.js": "/Portfolio/static/js/main.105c6bca.js",
     "static/js/453.3f1fb51b.chunk.js": "/Portfolio/static/js/453.3f1fb51b.chunk.js",
+    "static/media/niv-eau17.fr_.png": "/Portfolio/static/media/niv-eau17.fr_.af083aed3888e9ba97fa.png",
     "static/media/linux-original.svg": "/Portfolio/static/media/linux-original.0cb7bf4e5cb9ed5e2333.svg",
     "static/media/Violet's Bookshop.webp": "/Portfolio/static/media/Violet's Bookshop.85414fc015a0bda5e873.webp",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AGCRE.webp": "/Portfolio/static/media/AGCRE.a556e45e7c55b514cd3c.webp",
     "static/media/ancreo.webp": "/Portfolio/static/media/ancreo.be94ef25b14e1ae48abb.webp",
     "static/media/react2shell.webp": "/Portfolio/static/media/react2shell.71e54ce4dedb131b5dee.webp",
     "static/media/CV CURTIL Maxime.pdf": "/Portfolio/static/media/CV CURTIL Maxime.6cc9fa4f12dd19a65bc5.pdf",
+    "static/media/Portfolio.webp": "/Portfolio/static/media/Portfolio.f362201891a71d01e144.webp",
     "static/media/GestionStock.webp": "/Portfolio/static/media/GestionStock.586bbc0f88f14512b986.webp",
-    "static/media/Portfolio.webp": "/Portfolio/static/media/Portfolio.800fa1a6eee8d8d7bca2.webp",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/postgresql-original-wordmark.svg": "/Portfolio/static/media/postgresql-original-wordmark.7f69300e20bea0f64899.svg",
     "static/media/SQL.svg": "/Portfolio/static/media/SQL.52fc098126b8b29ddd95.svg",
@@ -25,10 +25,11 @@
     "static/media/symfony-original-wordmark.svg": "/Portfolio/static/media/symfony-original-wordmark.1c38dd766f41da1aa242.svg",
     "static/media/Python.svg": "/Portfolio/static/media/Python.4c10e3e883c66039a07b.svg",
     "static/media/React.svg": "/Portfolio/static/media/React.dab5e742691999bfe3df.svg",
-    "index.html": "/Portfolio/index.html",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/Claude.svg": "/Portfolio/static/media/Claude.04c42ebed9e122c56a95.svg",
     "static/media/woocommerce-original-wordmark.svg": "/Portfolio/static/media/woocommerce-original-wordmark.c581a9876966e68632ca.svg",
     "static/media/Redis.svg": "/Portfolio/static/media/Redis.7ac40ab1d2316ea5966d.svg",
+    "index.html": "/Portfolio/index.html",
     "static/media/Node.svg": "/Portfolio/static/media/Node.066ea1a40c1c8f42c3fa.svg",
     "static/media/socketio-original.svg": "/Portfolio/static/media/socketio-original.779617086562006557db.svg",
     "static/media/Javascript.svg": "/Portfolio/static/media/Javascript.2d2e6d4fde8c0beaf898.svg",
@@ -39,16 +40,17 @@
     "static/media/Git.svg": "/Portfolio/static/media/Git.9da88573cca3c97a3a15.svg",
     "static/media/css3-original.svg": "/Portfolio/static/media/css3-original.39769a8bd378bf410d6b.svg",
     "static/media/Tailwind.svg": "/Portfolio/static/media/Tailwind.5dc20a22c455a7a4efee.svg",
+    "static/media/IA.svg": "/Portfolio/static/media/IA.b657dcaafc07aaf7e964.svg",
     "static/media/html5-original.svg": "/Portfolio/static/media/html5-original.8664168d5bc90b1a2439.svg",
     "static/media/figma-original.svg": "/Portfolio/static/media/figma-original.2c2c9d7ff067a3272fbc.svg",
     "static/media/Next.svg": "/Portfolio/static/media/Next.67a2f477ba15b7e4af2c.svg",
     "static/media/windows11-original.svg": "/Portfolio/static/media/windows11-original.f8aecc5b5ff8c9674926.svg",
-    "main.c12f78de.css.map": "/Portfolio/static/css/main.c12f78de.css.map",
-    "main.820e8c2f.js.map": "/Portfolio/static/js/main.820e8c2f.js.map",
+    "main.0c03037e.css.map": "/Portfolio/static/css/main.0c03037e.css.map",
+    "main.105c6bca.js.map": "/Portfolio/static/js/main.105c6bca.js.map",
     "453.3f1fb51b.chunk.js.map": "/Portfolio/static/js/453.3f1fb51b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c12f78de.css",
-    "static/js/main.820e8c2f.js"
+    "static/css/main.0c03037e.css",
+    "static/js/main.105c6bca.js"
   ]
 }
