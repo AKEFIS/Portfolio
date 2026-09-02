@@ -60,8 +60,8 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link as={Link} to="/resume" onClick={() => updateExpanded(false)}>
-                <CgFileDocument style={{ marginBottom: "2px" }} /> CV
+              <Nav.Link as={Link} to="/cv-lettre-motivation" onClick={() => updateExpanded(false)}>
+                <CgFileDocument style={{ marginBottom: "2px" }} /> CV & Lettre de motivation
               </Nav.Link>
             </Nav.Item>
           </Nav>
